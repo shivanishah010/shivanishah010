@@ -1,4 +1,4 @@
-### Hello 👋  My name is Shivani, and I'm learning how to code in 2021. 
+### Hello 👋   My name is Shivani, and I'm learning how to code in 2021. 
 
 Watch this space for more updates as I learn my way around Github and the world of web development! 👩‍💻
 
