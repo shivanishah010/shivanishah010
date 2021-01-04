@@ -1,4 +1,6 @@
-### Hello 👋  My name is Shivani, and I'm learning how to code in 2021. Watch this space for more updates as I learn my way around Github and the world of web development! 👩‍💻
+### Hello 👋  My name is Shivani, and I'm learning how to code in 2021. 
+
+Watch this space for more updates as I learn my way around Github and the world of web development! 👩‍💻
 
 <!--
 **shivanishah010/shivanishah010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
