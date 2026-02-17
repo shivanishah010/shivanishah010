@@ -1,4 +1,4 @@
-### My name is Shivani, and I'm learning how to code in 2021. 
+### My name is Shivani, I'm a content marketing and operations consultant, and I'm building Freelance Rate Guide.
 
 Watch this space for more updates as I learn my way around Github and the world of web development! 👩‍💻
 
