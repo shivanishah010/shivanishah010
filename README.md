@@ -1,4 +1,4 @@
-### My name is Shivani, I'm a content marketing and operations consultant, and I'm building Freelance Rate Guide.
+### My name is Shivani, I'm an operations and systems consultant, and I'm building Freelance Rate Guide.
 
 Watch this space for more updates as I learn my way around Github and the world of web development! 👩‍💻
 
