@@ -1,6 +1,8 @@
-### My name is Shivani, I'm an operations and systems consultant, and I'm building Freelance Rate Guide.
+### My name is Shivani, I'm an operations and systems consultant
 
-Watch this space for more updates as I learn my way around Github and the world of web development! 👩‍💻
+- 🔭 I’m currently working on [Freelance Rate Guide](https://freelancerateguide.com/), a resource to help freelancers gain financial sustainability.
+- 🌱 I’m currently learning how to use APIs to build custom workflows.
+- 😄 Pronouns: she / her
 
 <!--
 **shivanishah010/shivanishah010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
