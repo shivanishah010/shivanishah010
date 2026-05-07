@@ -1,7 +1,7 @@
 ### My name is Shivani, I'm an operations and systems consultant
 
 - 🔭 I’m currently working on [Freelance Rate Guide](https://freelancerateguide.com/), a resource to help freelancers gain financial sustainability.
-- 🌱 I’m currently learning how to use APIs to build custom workflows.
+- 🌱 I’m also learning how to use APIs to build custom workflows.
 - 😄 Pronouns: she / her
 
 <!--
