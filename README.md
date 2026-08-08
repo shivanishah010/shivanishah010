@@ -1,6 +1,8 @@
 ### My name is Shivani, I'm an operations and systems consultant
 
-- 🔭 I’m currently working on [Freelance Rate Guide](https://freelancerateguide.com/), a resource to help freelancers gain financial sustainability.
+- 🔭 I’m currently working on two projects:
+  - [Freelance Rate Guide](https://freelancerateguide.com/): a resource to help freelancers gain financial sustainability
+  - [Carbon Impact Estimator](https://offsite-carbon-footprint.lovable.app): for remote companies to calculate the carbon footprint for flights for team offsites
 - 🌱 I’m also learning how to use APIs to build custom workflows.
 - 😄 Pronouns: she / her
 
