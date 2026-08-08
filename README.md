@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on two projects:
   - [Freelance Rate Guide](https://freelancerateguide.com/): a resource to help freelancers gain financial sustainability
   - [Carbon Impact Estimator](https://offsite-carbon-footprint.lovable.app): for remote companies to calculate the carbon footprint for flights for team offsites
-- 🌱 I’m also learning how to use APIs to build custom workflows.
+- 🌱 I’m also learning how to use APIs to build apps and custom workflows.
 - 😄 Pronouns: she / her
 
 <!--
