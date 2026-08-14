@@ -1,4 +1,4 @@
-### My name is Shivani, I'm an operations and systems consultant
+### My name is Shivani, I'm a content marketing and operations consultant
 
 - 🔭 I’m currently working on two projects:
   - [Freelance Rate Guide](https://freelancerateguide.com/): a resource to help freelancers gain financial sustainability
