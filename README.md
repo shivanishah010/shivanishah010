@@ -1,8 +1,8 @@
 ### My name is Shivani, I'm a content marketing and operations consultant
 
 - 🔭 I’m currently working on two projects:
-  - [Freelance Rate Guide](https://freelancerateguide.com/): a resource to help freelancers gain financial sustainability
-  - [Carbon Impact Estimator](https://offsite-carbon-footprint.lovable.app): for remote companies to calculate the carbon footprint for flights for team offsites
+  - [Freelance Rate Guide]([https://freelancerateguide.com/](https://freelancerateguide.com/?utm_source=github&utm_medium=portfolio): a resource to help freelancers gain financial sustainability
+  - [Carbon Impact Estimator]([https://offsite-carbon-footprint.lovable.app](https://offsite-carbon-footprint.lovable.app/?utm_source=github&utm_medium=portfolio): for remote companies to calculate the carbon footprint for flights for team offsites
 - 🌱 I’m also learning how to use APIs to build apps and custom workflows.
 - 😄 Pronouns: she / her
 
